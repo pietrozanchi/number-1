@@ -1,0 +1,30 @@
+html { 
+  display: flex;
+  justify-content: row;
+  height: 100%;
+  width: 49%;
+}
+#fds{
+  background-color: #f8f7f7;
+ 
+}
+
+#macaco{
+  background-color: #fdf7f7;
+
+}
+
+#bao{
+  background-color: #f4f4f0;
+  
+}
+
+#pinto{ 
+  background-color: #e0e0e0;
+  
+}
+
+#martelo{
+  background-color: #efe6e6;
+
+}
